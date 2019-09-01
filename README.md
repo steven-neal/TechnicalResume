@@ -1,6 +1,4 @@
-# TechnicalResume
-
-<h1>Technical Knowledge, Skills and Abilities - With Certifications</h1>
+<h1>Technical Knowledge, Skills, and Abilities - With Certifications</h1>
 
 Listed below are technical skills I acquired through education, training, and experience in the Computer Information Systems major and Master of Business Administration at The University of Tulsa.
 
