@@ -139,3 +139,24 @@ LPI Linux Essentials Course Completion Certificate:
 <img src="SNLPICertificate.png" alt="LPI Linux Essentials Course Completion">
 <br>
 </details>
+
+
+<details><summary>LinkedIn Courses</summary>
+<br>
+I completed the following courses on <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a>. These courses gave me an introduction to several relevant topics. 
+<br>
+
+<h4>Topics:</h4>
+<ul>
+<li>Business Analyst and Project Manager Collaboration</li>
+<li>Project Management Foundations: Leading Projects</li>
+<li>Strategic Thinking</li>
+<li>Business Analysis Foundations</li>  
+<li>Professional Networking</li> 
+<li>Learning Data Analytics</li>
+</ul>
+
+<h4> Certificate: </h4>
+Course Completion Certificates (Pending):
+<br>
+</details>
