@@ -11,6 +11,8 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <h4>Courses:</h4>
 <ul>
+<li>First Day on GitHub</li>
+<li>First Week on GitHub</li>
 <li>Introduction to GitHub</li>
 <li>Communicating using Markdown</li>
 <li>Introduction to HTML</li>
