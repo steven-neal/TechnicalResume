@@ -6,6 +6,12 @@ Listed below are technical skills I acquired through education, training, and ex
 <h2>Technical Skills</h2>
 <details><summary>GitHub Learning Lab</summary>
 <br>
+<ul>
+<li>Fundamentals of distributed version control including creating, reviewing and approving pull requests.
+<li>An introduction to source code management including task management, bug tracking and documentation.
+<li>The use of Markdown and HTML to format webpages in order to display items held in Github repositories.
+<li>Review of workflow management including workflow automation through GitHub Apps and workflow security.
+  </ul>
 I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. These courses taught me how to stand up static pages, create and manage pull requests, facilitate collaboration, and more. 
 <br>
   
@@ -35,6 +41,13 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>Power BI</summary>
 <br>
+</ul>
+<li>Importing datasets, defining data relationships, and editing queries.
+<li>Creating dynamic visualizations on customizable reports and dashboards.
+<li>Connecting to external data sources such as SQL on Azure and leveraging the capabilites of ESRI ArcGIS and R.
+<li>Configuring visualizations to be shared and consumed across multiple platforms.
+</ul>
+
 I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses. These courses taught me how to input data, add and modify elements on a dashboard, and transform and interpret different kinds of data. 
 <br>
   
