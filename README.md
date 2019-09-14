@@ -78,6 +78,26 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 <br>
 </details>
 
+<details><summary>PowerShell</summary>
+<br>
+<ul>
+  <li>Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system.
+<li>Constructing pipelines, variables and arrays to store outputs be used in other commands.
+<li>Introduction to scripting and process automation for system administration.
+  </ul>
+
+Using the knowledge I gained from completing the PowerShell course, I created a....  
+<a href="https://PLACEHOLDER.HERE">Procurement Analysis sample data</a> provided by Microsoft. 
+Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Procurement Analysis Dashboard</a>
+<br>
+<br>
+<img src="SNPowerShell.png" alt="PowerShell photo">
+<br>
+<br>
+</details>
+
+
+
 
 <details><summary>VPN</summary>
 <br>
