@@ -80,10 +80,21 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 
 <details><summary>PowerShell</summary>
 <br>
+Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system. Constructing pipelines, variables and arrays to store outputs be used in other commands. Introduction to scripting and process automation for system administration.
+  <br>
+  
 <ul>
-  <li>Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system.
-<li>Constructing pipelines, variables and arrays to store outputs be used in other commands.
-<li>Introduction to scripting and process automation for system administration.
+<li>Installing Windows Management Framework 5
+<li>Running commands (cmdlets)
+<li>Discovering commands
+<li>Understanding cmdlet syntax
+<li>Resolving terse commands
+<li>Finding and using local modules
+<li>Working with files, printers, CSVs, and XML in the pipeline
+<li>Selecting, sorting, and filtering object data
+<li>Creating scripts
+<li>Automating tasks
+<li>Using PowerShell remoting
   </ul>
 
 Using the knowledge I gained from completing the PowerShell course, I created a....  
