@@ -98,11 +98,11 @@ Formatting basic powershell commands for basic system management including an un
   </ul>
 
 Using the knowledge I gained from completing the PowerShell course, I created a....  
-<a href="https://PLACEHOLDER.HERE">Procurement Analysis sample data</a> provided by Microsoft. 
-Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Procurement Analysis Dashboard</a>
+<a href="https://PLACEHOLDER.HERE">Placeholder 1</a>. 
+Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Placeholder 2</a>
 <br>
 <br>
-<img src="SNPowerShell.png" alt="PowerShell photo">
+<img src="SNPowerShell.pdf" alt="PowerShell photo">
 <br>
 <br>
 </details>
