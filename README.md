@@ -98,7 +98,7 @@ Formatting basic powershell commands for basic system management including an un
   </ul>
 
 Using the knowledge I gained from completing the PowerShell course, I created a....  
-<a href="https://PLACEHOLDER.HERE">Placeholder 1</a>. 
+<a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">Placeholder 1</a>. 
 Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Placeholder 2</a>
 <br>
 <br>
