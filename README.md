@@ -102,7 +102,7 @@ Using the knowledge I gained from completing the PowerShell course, I created a.
 Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Placeholder 2</a>
 <br>
 <br>
-<img src="SNPowerShell.pdf" alt="PowerShell photo">
+<img src="https://github.com/steven-neal/TechnicalResume/blob/master/SNPowerShell.pdf" alt="PowerShell photo">
 <br>
 <br>
 </details>
