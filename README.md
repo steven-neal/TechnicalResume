@@ -37,6 +37,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
 <br>
 </details>
+<br>
 
 
 <details><summary>Power BI</summary>
@@ -66,6 +67,7 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 <img src="SNPowerBI.png" alt="Power BI photo">
 <br>
 </details>
+<br>
 
 
 <details><summary>Power BI Dashboard</summary>
@@ -77,6 +79,8 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 <br>
 <br>
 </details>
+<br>
+
 
 <details><summary>PowerShell</summary>
 <br>
@@ -107,6 +111,7 @@ Click the following link to watch a demonstration of my PowerShell: <a href="htt
 <br>
 </details>
 
+<br>
 
 
 
@@ -119,6 +124,7 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <br>
 <br>
 </details>
+<br>
 
 
 <details><summary>Amazon Web Services (AWS)</summary>
@@ -159,6 +165,7 @@ I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com
 <br>
 <br>
 </details>
+<br>
 
 
 <details><summary>Linux</summary>
@@ -195,6 +202,7 @@ LPI Linux Essentials Course Completion Certificate:
 <img src="SNLPICertificate.pdf" alt="LPI Linux Essentials Course Completion">
 <br>
 </details>
+<br>
 
 
 <details><summary>LinkedIn Courses</summary>
@@ -217,3 +225,4 @@ I completed the following courses on <a href="https://www.linkedin.com/learning/
 Course Completion Certificates (Pending):
 <br>
 </details>
+<br>
