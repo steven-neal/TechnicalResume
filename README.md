@@ -204,6 +204,7 @@ I completed the following courses on <a href="https://www.linkedin.com/learning/
 
 <h4>Topics:</h4>
 <ul>
+<li>PowerShell 5 Essential Training</li>
 <li>Business Analyst and Project Manager Collaboration</li>
 <li>Project Management Foundations: Leading Projects</li>
 <li>Strategic Thinking</li>
