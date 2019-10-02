@@ -11,7 +11,7 @@ Listed below are technical skills I acquired through education, training, and ex
 <li>An introduction to source code management including task management, bug tracking and documentation.
 <li>The use of Markdown and HTML to format webpages in order to display items held in Github repositories.
 <li>Review of workflow management including workflow automation through GitHub Apps and workflow security.
-  </ul>
+</ul>
 I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. These courses taught me how to stand up static pages, create and manage pull requests, facilitate collaboration, and more. 
 <br>
   
@@ -85,7 +85,7 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 <details><summary>PowerShell</summary>
 <br>
 Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system. Constructing pipelines, variables and arrays to store outputs be used in other commands. Introduction to scripting and process automation for system administration.
-  <br>
+<br>
   
 <ul>
 <li>Installing Windows Management Framework 5
@@ -99,7 +99,7 @@ Formatting basic powershell commands for basic system management including an un
 <li>Creating scripts
 <li>Automating tasks
 <li>Using PowerShell remoting
-  </ul>
+</ul>
 
 Using the knowledge I gained from completing the PowerShell course, I created a....  
 <a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">Placeholder 1</a>. 
@@ -129,12 +129,12 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 
 <details><summary>Amazon Web Services (AWS)</summary>
 <br>
-  <ul>
-  <li>Introduction to cloud concepts including exposure to feature sets available on the AWS platform.
+<ul>
+<li>Introduction to cloud concepts including exposure to feature sets available on the AWS platform.
 <li>The benefits cost savings of moving to a AWS cloud environment with concepts such as: pay-as-you-go and elimination of large up-front capital needs.
 <li>AWS’s ability to provide reliable and scalability platforms with built in redundancies to support business continuity efforts.
 <li>A review of the shared responsibility model for AWS security.
-    </ul>
+</ul>
   
 <br>
 I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses provided me with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
