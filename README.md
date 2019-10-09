@@ -204,6 +204,32 @@ LPI Linux Essentials Course Completion Certificate:
 </details>
 <br>
 
+<details><summary>Salesforce</summary>
+<br>
+Admin Beginner course on Salesforce.
+<br>
+I completed the Admin Beginner course on <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner/">Salesforce Trailhead</a>. This course gave me an introduction to the Salesforce platform, by learning the basics of customizing Salesforce. 
+<br>
+<br>  
+
+<h4>Topics:</h4>
+<ul>
+<li>Salesforce Platform Basics</li>
+<li>Data Modeling</li>
+<li>Data Management</li>
+<li>Lightning Experience Customization</li>  
+<li>Salesforce Mobile App Customization</li> 
+<li>Reports and Dashboards for Lightning Experiene</li>
+</ul>
+
+<h4> Certificate: </h4>
+Salesforce Admin Beginner Course Completion:
+<img src="SalesForce.png" alt="Salesforce Admin Beginner Course Completion">
+<br>
+</details>
+<br>
+
+
 
 <details><summary>LinkedIn Courses</summary>
 <br>
