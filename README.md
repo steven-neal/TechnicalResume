@@ -36,6 +36,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <img src="SNGithubPhoto.png" alt="Github photo">
 <br>
 </details>
+<br>
 
 <details><summary>Power BI</summary>
 <br>
