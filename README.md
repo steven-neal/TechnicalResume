@@ -33,9 +33,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Create a release based workflow</li>
 </ul>
 <br>
-</details>
 <img src="SNGithubPhoto.png" alt="Github photo">
 <br>
+</details>
 
 <details><summary>Power BI</summary>
 <br>
