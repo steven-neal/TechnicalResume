@@ -35,7 +35,6 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
 <img src="SNGithubPhoto.png" alt="Github photo">
 <br>
-<br>
 </details>
 <br>
 
@@ -74,9 +73,7 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 <br>
 Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources sample data</a> provided by Microsoft. Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://github.com/steven-neal/TechnicalResume/blob/master/PowerBI%20Demonstration.mp4?raw=true">Steve Neal Human Resources Dashboard</a>
 <br>
-<br>
 <img src="SNPowerBIDashboard.png" alt="Power BI dashboard photo">
-<br>
 <br>
 </details>
 <br>
@@ -105,9 +102,7 @@ Using the knowledge I gained from completing the PowerShell course, I created a.
 <a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">Placeholder 1</a>. 
 Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Steve Neal Placeholder 2</a>
 <br>
-<br>
 <img src="https://github.com/steven-neal/TechnicalResume/blob/master/SNPowerShell.pdf" alt="PowerShell photo">
-<br>
 <br>
 </details>
 
@@ -119,9 +114,7 @@ Click the following link to watch a demonstration of my PowerShell: <a href="htt
 <br>
 I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added and removed users. 
 <br>
-<br>
 <img src="SNAlgo.png" alt="Algo VPN photo"> 
-<br>
 <br>
 </details>
 <br>
@@ -138,7 +131,6 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
   
 <br>
 I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses provided me with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
-<br>
 <br>
 
 <h4>Topics:</h4>
@@ -163,7 +155,6 @@ I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com
 <br>
 <img src="CertificateOfCompletion_AWS_Essentials.pdf" alt="AWS Certificate">
 <br>
-<br>
 </details>
 <br>
 
@@ -174,7 +165,6 @@ Introduction to the ubuntu Linux distribution including managing file systems, d
 <br>
 I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses gave me an introduction to the Linux operating system and the Linux kernel, as well as the Linux command line syntax. 
 <br>
-<br>  
 
 <h4>Topics:</h4>
 <ul>
@@ -210,7 +200,6 @@ Admin Beginner course on Salesforce.
 <br>
 I completed the Admin Beginner course on <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner/">Salesforce Trailhead</a>. This course gave me an introduction to the Salesforce platform, by learning the basics of customizing Salesforce. 
 <br>
-<br>  
 
 <h4>Topics:</h4>
 <ul>
@@ -228,8 +217,6 @@ Salesforce Admin Beginner Course Completion:
 <br>
 </details>
 <br>
-
-
 
 <details><summary>LinkedIn Courses</summary>
 <br>
