@@ -195,7 +195,7 @@ I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com
 
 <h4> Certificate: </h4>
 LPI Linux Essentials Course Completion Certificate:
-<img src="SNLPICertificate.pdf" alt="LPI Linux Essentials Course Completion">
+<img src="https://github.com/steven-neal/TechnicalResume/raw/master/SNLPICertificate.pdf" alt="LPI Linux Essentials Course Completion">
 <br>
 </details>
 <br>
