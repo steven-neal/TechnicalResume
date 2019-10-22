@@ -154,7 +154,7 @@ I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com
   <li>Serverless Computing - Lambda</li>
 </ul>
 <br>
-<img src="CertificateOfCompletion_AWS_Essentials.pdf" alt="AWS Certificate">
+<img src="https://github.com/steven-neal/TechnicalResume/raw/master/CertificateOfCompletion_AWS_Essentials.pdf" alt="AWS Certificate">
 <br>
 </details>
 <br>
