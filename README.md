@@ -62,6 +62,7 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 <li>Mobile App</li>
 </ul>
 <br>
+
 <img src="SNPowerBI.png" alt="Power BI photo">
 <br>
 </details>
@@ -70,9 +71,13 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 
 <details><summary>Power BI Dashboard</summary>
 <br>
-Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources sample data</a> provided by Microsoft. Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://github.com/steven-neal/TechnicalResume/blob/master/PowerBI%20Demonstration.mp4?raw=true">Steve Neal Human Resources Dashboard</a>
+Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources sample data</a> provided by Microsoft. 
+<br>
 <br>
 <img src="SNPowerBIDashboard.png" alt="Power BI dashboard photo">
+<br>
+<br>
+Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://github.com/steven-neal/TechnicalResume/raw/master/PowerBI%20Demonstration.mp4?raw=true">Steve Neal Human Resources Dashboard</a>
 <br>
 </details>
 <br>
