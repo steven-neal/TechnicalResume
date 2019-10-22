@@ -111,6 +111,10 @@ Using the knowledge I gained from completing the PowerShell course, I was able t
 <br>
 I configured my own IPSEC VPN in the cloud (Digital Ocean) using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added and removed users. 
 <br>
+<br>
+See below: First picture is actual IP. Second picture is masked IP via AlgoVPN. Third picture is a screenshot of the AlgoVPN running on Digital Ocean.  (Note: Trailing portions of IPs are obfuscated for security purposes.
+<br>
+  <br>
 <img src="https://github.com/steven-neal/TechnicalResume/blob/master/SNAlgo.PNG" alt="Algo VPN photo"> 
 <br>
 </details>
