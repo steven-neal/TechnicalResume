@@ -97,8 +97,7 @@ I took the <a href="https://www.linkedin.com/learning/powershell-5-essential-tra
 <li>Using PowerShell remoting
 </ul>
 
-Using the knowledge I gained from completing the PowerShell course, I was able to effectively use PowerShell and PowerShell ISE.  
-<a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">PowerShell Certificate</a>. 
+Using the knowledge I gained from completing the PowerShell course, I was able to effectively use PowerShell and PowerShell ISE. <a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">PowerShell Certificate</a>. 
 
 <br>
 
