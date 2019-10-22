@@ -80,7 +80,7 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 
 <details><summary>PowerShell</summary>
 <br>
-Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system. Constructing pipelines, variables and arrays to store outputs be used in other commands. Introduction to scripting and process automation for system administration.
+I took the <a href="https://www.linkedin.com/learning/powershell-5-essential-training">PowerShell 5 Essential Training</a> course provided by LinkedIn Learning. I learned how to format basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system. Constructing pipelines, variables and arrays to store outputs be used in other commands. Introduction to scripting and process automation for system administration.
 <br>
   
 <ul>
@@ -99,10 +99,9 @@ Formatting basic powershell commands for basic system management including an un
 
 Using the knowledge I gained from completing the PowerShell course, I was able to effectively use PowerShell and PowerShell ISE.  
 <a href="https://github.com/steven-neal/TechnicalResume/raw/master/SNPowerShell.pdf">PowerShell Certificate</a>. 
-Click the following link to watch a demonstration of my PowerShell: <a href="https://PLACEHOLDER.HERE">Placeholder 2</a>
+
 <br>
-<img src="https://github.com/steven-neal/TechnicalResume/blob/master/SNPowerShell.pdf" alt="PowerShell photo">
-<br>
+
 </details>
 
 <br>
