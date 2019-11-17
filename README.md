@@ -219,7 +219,7 @@ I completed the Admin Beginner course on <a href="https://trailhead.salesforce.c
 
 <h4> Certificate: </h4>
 Salesforce Admin Beginner Course Completion:
-<img src="https://github.com/steven-neal/TechnicalResume/raw/master/SalesForce.png" alt="Salesforce Admin Beginner Course Completion">
+<img src="https://github.com/steven-neal/TechnicalResume/blob/master/SalesForce.png" alt="Salesforce Admin Beginner Course Completion">
 <br>
 </details>
 <br>
