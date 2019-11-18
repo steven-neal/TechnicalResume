@@ -63,8 +63,6 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 </ul>
 <br>
 
-<img src="SNPowerBI.png" alt="Power BI photo">
-<br>
 </details>
 <br>
 
