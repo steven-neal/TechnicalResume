@@ -237,7 +237,7 @@ I completed the following courses on <a href="https://www.linkedin.com/learning/
 </ul>
 
 <h4> Certificate: </h4>
-Course Completion Certificates (Pending):
+Course Completion Certificates are posted on my LinkedIn profile.
 <br>
 </details>
 <br>
