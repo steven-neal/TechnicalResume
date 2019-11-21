@@ -61,6 +61,13 @@ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-dat
 </ul>
 <br>
 
+<h4> Certificate: </h4>
+Power BI Course Completion:
+<img src="https://github.com/steven-neal/TechnicalResume/blob/master/SNPowerBI.png" alt="Power BI Course Completion">
+<br>
+</details>
+<br>
+
 </details>
 <br>
 
